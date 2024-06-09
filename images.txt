@@ -1,6 +1,5 @@
-alpine
 python:alpine3.19
-kasmweb/nginx:1.25.3
+nginx:1.25.3
 httpd:alpine3.20
 postgres:alpine3.20
 ubuntu:rolling
