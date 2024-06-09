@@ -8,5 +8,4 @@ debian:latest
 debian:jessie
 mysql:latest
 
---platform linux/arm64 cooderl/wewe-rss-sqlite:latest
 
